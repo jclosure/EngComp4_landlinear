@@ -1,0 +1,9 @@
+#Ignore notebook checkpoints 
+.ipynb_checkpoints
+
+#Ignore nbgrader log
+.nbgrader.log
+.DS_Store
+*.pyc
+__pycache__
+notebook_en/land_global_temperature_anomaly-1880-2016.csv
